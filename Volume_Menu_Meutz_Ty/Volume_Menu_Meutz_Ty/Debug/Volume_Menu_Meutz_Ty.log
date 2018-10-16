@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Volume_Menu_Meutz_Ty.cpp
+d:\volume_menu_meutz_ty\volume_menu_meutz_ty\volume_menu_meutz_ty.cpp(24): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\volume_menu_meutz_ty\volume_menu_meutz_ty\volume_menu_meutz_ty.cpp(78): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\volume_menu_meutz_ty\volume_menu_meutz_ty\volume_menu_meutz_ty.cpp(103): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Volume_Menu_Meutz_Ty.vcxproj -> D:\Volume_Menu_Meutz_Ty\Debug\Volume_Menu_Meutz_Ty.exe
